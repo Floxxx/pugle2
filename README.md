@@ -4,8 +4,12 @@
 
 Install composer by running:
 
-`curl -sS https://getcomposer.org/installer | php`
+```shell
+curl -sS https://getcomposer.org/installer | php
+```
 
 Next, install dependencies:
 
-`php composer.phar install`
+```shell
+php composer.phar install
+```
